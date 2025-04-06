@@ -2,7 +2,7 @@ Introducing Playtones, a comprehensive music application designed to elevate use
 
 ✅Key Features:
 
-1️⃣ Advanced Playback Controls: Easily play, pause, skip to the next or previous track, and navigate through user's music with 10-second forward and backward options.​
+1️⃣ Advanced Playback Controls: Easily play, pause, skip to the next or previous track, and navigate through user's music with 10-second forward and backward options and alson users can delete and share a song
 
 2️⃣ Shuffle and Loop Modes : Users can enjoy music in shuffle mode for a randomized playlist or loop your favorite tracks endlessly.​
 
