@@ -23,6 +23,7 @@ Introducing Playtones, a comprehensive music application designed to elevate use
 🔟 Favorites Section : Users can mark and access their favorite tracks quickly in the dedicated Favorites section.​
 
 1️⃣1️⃣ Most Played and Recently Played Sections: Users can keep track of listening habits with automatically generated sections for their most played and recently played songs.​
+1️⃣2️⃣ Real time notification 
 
 ✅Technologies used:
 
